@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "get pool matches",
   "bin": {
-    "exchange-live": "bin/exchange-live-cli.js"
+    "exchange-live": "bin/dpl-cli.js"
   },
   "scripts": {
-    "dev": "node ./bin/exchange-live-cli.js"
+    "dev": "node ./bin/dpl-cli.js"
   },
   "main" : "./lib/index.js",
   "preferGlobal": "true",
