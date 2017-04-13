@@ -1,9 +1,9 @@
 {
   "name": "dpl-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "get pool matches",
   "bin": {
-    "exchange-live": "bin/dpl-cli.js"
+    "dpl-cli": "bin/dpl-cli.js"
   },
   "scripts": {
     "dev": "node ./bin/dpl-cli.js"
