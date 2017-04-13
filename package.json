@@ -1,0 +1,22 @@
+{
+  "name": "dpl-cli",
+  "version": "0.1.0",
+  "description": "get pool matches",
+  "bin": {
+    "exchange-live": "bin/exchange-live-cli.js"
+  },
+  "scripts": {
+    "dev": "node ./bin/exchange-live-cli.js"
+  },
+  "main" : "./lib/index.js",
+  "preferGlobal": "true",
+  "repository": "https://github.com/solodynamo/dpl-cli.git",
+  "author": "solodynamo <bittuf3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "got": "^6.7.1"
+  }
+}
