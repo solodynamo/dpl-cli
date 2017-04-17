@@ -13,3 +13,5 @@ Make sure all dependencies have been installed:
    * `npm install -g dpl-cli` (NPM)
 2. Run `dpl-cli` At Console To Get Today matches.
 2. Run `dpl-cli-score` At Console To Get Team Scores.
+
+##NOTE: Maximize the terminal screen for much nicer view.
