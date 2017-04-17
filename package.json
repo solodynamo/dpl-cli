@@ -1,6 +1,6 @@
 {
   "name": "dpl-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "get pool matches",
   "bin": {
     "dpl-cli": "bin/dpl-cli.js",
